@@ -1,8 +1,9 @@
 
 # 🚀 **Cristiana-Silvia Bazîru**  
+<img src="profile.jpeg" align="right" width="150" height="150" style="border-radius: 50%; margin-left: 15px;" />
 🎓 **Electronics, Telecommunications & IT | TUCN**  
 📍 Cluj-Napoca, Romania | 📧 cristiana.baziru@gmail.com  
-<img src="profile.jpeg" align="right" width="150" height="150" style="border-radius: 50%; margin-left: 15px;" />
+
 
 ---
 
