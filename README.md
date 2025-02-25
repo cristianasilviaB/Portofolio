@@ -95,6 +95,6 @@ Currently in my final year at the **Technical University of Cluj-Napoca**, I enj
 
 📧 **Email:** cristiana.baziru@gmail.com  
 📍 **Location:** Cluj-Napoca, Romania  
-🔗 **[LinkedIn](#)**  www.linkedin.com/in/cristiana-baziru-352aa824a
-💻 **[GitHub](#)**  https://github.com/cristianasilviaB
+🔗 **[LinkedIn](#)**  www.linkedin.com/in/cristiana-baziru-352aa824a **
+💻 **[GitHub](#)**  https://github.com/cristianasilviaB **
 
