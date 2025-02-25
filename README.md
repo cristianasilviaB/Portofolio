@@ -1,10 +1,7 @@
-
-# **Cristiana-Silvia Bazîru**  
+# 🚀 **Cristiana-Silvia Bazîru**  
 <img src="profile.jpeg" align="right" width="150" height="150" style="border-radius: 50%; margin-left: 15px;" />
-
 🎓 **Electronics, Telecommunications & IT | TUCN**  
-📍 Cluj-Napoca, Romania
-📧 cristiana.baziru@gmail.com  
+📍 Cluj-Napoca, Romania | 📧 cristiana.baziru@gmail.com  
 
 ---
 
@@ -30,8 +27,10 @@ Passionate about **software development, data engineering, and telecommunication
 
 ### 🔍 **Testing & Debugging**  
 ✅ Basic **QA & software testing methodologies**  
-🔗 **Version Control:** `Git` 
+🔗 **Version Control:** `Git` | `Bitbucket`  
 
+### 🛠 **Other Tools & Frameworks**  
+🐳 `Docker` | 🔧 `Jenkins` | 🌥️ `Cloud Computing`  
 💡 **Always exploring new tech trends!**  
 
 ---
@@ -101,5 +100,3 @@ Passionate about **software development, data engineering, and telecommunication
 🚀 Always open to new **challenges, collaborations, and opportunities!**  
 
 ---
-
-
