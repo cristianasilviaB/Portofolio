@@ -1,100 +1,102 @@
 
-# **Cristiana-Silvia Bazîru**  
-🎓 **Student | Electronics, Telecommunications & IT | TUCN**  
-
+# 🚀 **Cristiana-Silvia Bazîru**  
+🎓 **Electronics, Telecommunications & IT | TUCN**  
 📍 Cluj-Napoca, Romania | 📧 cristiana.baziru@gmail.com  
 
 ---
 
-## **👩‍💻 About Me**  
-Enthusiastic and self-motivated student passionate about **data engineering, software development, and technology**.  
-Currently in my final year at the **Technical University of Cluj-Napoca**, I enjoy working on **software projects, data analysis, and problem-solving** in a professional and team-oriented environment.  
+## 👋 **Hello, World! I'm Cristiana!**  
+Passionate about **software development, data engineering, and telecommunications**, I love turning ideas into reality through **code, innovation, and creativity**.  
+
+💡 Curious by nature, I enjoy solving problems and exploring **new technologies**.  
+🎯 My focus? **Embedded systems, software engineering, and data-driven solutions.**  
+🌱 Always learning and growing in the **tech world**!  
 
 ---
 
-## **🎯 Skills & Technologies**  
+## **💡 Tech Stack & Skills**  
 
-### **💻 Programming & Development**  
-- **Languages:** `Python`, `JavaScript`, `SQL`, `HTML/CSS`, `Java (basic)`, `VHDL (Vivado)`
-- **Web Development:** `React.js`, `Responsive Design`
-- **Databases:** `MySQL`, `Oracle`
+### 💻 **Programming & Development**  
+🚀 `Python` | `JavaScript` | `SQL` | `HTML/CSS` | `C` | `Java (basic)`  
+🌐 **Web Development:** `React.js` | `Responsive Design`  
+📂 **Databases:** `MySQL` | `Oracle`  
 
-### **📡 Telecommunications & Embedded Systems**  
-- **Telecommunication Systems:** `Asterisk PBX (CLI)`, `Putty`, `SIP/IAX2 protocols`
-- **Tools:** `Git`, `VS Code`, `LTSpice`, `OrCAD`, `Proteus`
+### 📡 **Telecommunications & Embedded Systems**  
+🛰️ **Telecom Systems:** `Asterisk PBX (CLI)` | `SIP/IAX2` | `Putty`  
+⚙️ **Tools:** `LTSpice` | `OrCAD` | `Proteus` | `VS Code`  
 
-### **🔍 Testing & Debugging**  
-- Basic **QA and software testing methodologies**
+### 🔍 **Testing & Debugging**  
+✅ Basic **QA & software testing methodologies**  
+🔗 **Version Control:** `Git` 
 
-### **🛠 Tools & Frameworks**  
-- **Version Control:** `Git`, `Bitbucket`
-- **Others:** `Docker`, `Jenkins`
-
-### **🧠 Soft Skills**  
-✔️ Analytical & problem-solving skills  
-✔️ Team collaboration & mentoring experience  
-✔️ Fast learner, adaptable to new technologies  
-✔️ Strong organizational & project management abilities  
+💡 **Always exploring new tech trends!**  
 
 ---
 
-## **💼 Experience**  
+## 💼 **Experience**  
 
 ### 🔹 **Bosch Cluj | Summer Intern (July 2024 – August 2024)**  
-- Optimized processes and contributed to **quality control projects** within the **Bosch Production System** framework.  
+📌 Worked on **process optimization & quality control** in the **Bosch Production System**.  
+🛠️ Gained hands-on experience in **automated testing & software development**.  
 
-### 🔹 **MindHub Coding School | Programming Mentor (October 2022 – August 2023)**  
-- Mentored students in **fundamental programming concepts**, focusing on **logic and problem-solving**.  
-- Coordinated **complete project life cycles**, from **design to implementation**.  
+### 🔹 **MindHub Coding School | Programming Mentor (Oct 2022 – Aug 2023)**  
+🎯 Guided students through **fundamentals of programming** & **logical problem-solving**.  
+🛠️ Helped students develop **real-world projects**, from **concept to execution**.  
 
 ---
 
-## **🎓 Education**  
+## 🎓 **Education**  
 
-### 📍 **Technical University of Cluj-Napoca**  
-🎓 **Bachelor’s Degree in Electronics, Telecommunications & IT (Expected July 2025)**  
-- Specialized in **circuit design, signal processing, networking, and cybersecurity**.  
-- Hands-on projects in **IoT, wireless communications, and software development**.  
+📍 **Technical University of Cluj-Napoca**  
+🎓 **Bachelor’s Degree in Electronics, Telecommunications & IT** (📅 *Expected July 2025*)  
+- Specialized in **circuit design, networking, and embedded systems**.  
+- Passionate about **IoT, cybersecurity, and system simulations**.  
 
-### 📍 **Department of Specialization with Psychopedagogical Profile**  
+📍 **Department of Specialization with Psychopedagogical Profile (DSPP)**  
 🎓 **Level 1 – June 2024**  
-- Developed **pedagogical and psychology-related skills** for teaching.  
-- Gained expertise in **educational psychology, teaching methodologies, and communication techniques**.  
+- Developed **teaching, psychology & communication skills**.  
+- Strong knowledge of **educational psychology & training methodologies**.  
 
 ---
 
-## **🚀 Projects**  
+## 🚀 **Featured Projects**  
 
 🔹 **PBX Call Plan (Asterisk CLI)**  
-  - Designed and implemented a **dial plan for SIP and IAX2 subscribers** using CLI (without graphical tools).  
+📞 Designed & implemented a **dial plan for SIP/IAX2 subscribers** using CLI (without GUI).  
 
-🔹 **Server/Client Communication System in C (Linux & Windows)**  
-  - Developed a **server/client system using C** under Linux to communicate with a **Windows-based client** via socket streams.  
+🔹 **Server/Client Communication System (C - Linux & Windows)**  
+🔗 Built a **server-client system** in C for cross-platform communication.  
 
 🔹 **Responsive Web Portfolio (HTML, CSS, JavaScript)**  
-  - Built a **fully responsive** personal portfolio showcasing web development skills.  
+🎨 Designed & developed a **modern, responsive portfolio website**.  
 
-🔹 **Weather App with Django**  
-  - Created a web application that fetches **real-time weather data** from OpenWeatherMap API, displaying **temperature, humidity, UV index, air quality, and wind speed**.  
-
----
-
-## **📜 Certifications**  
-
-- 🏆 **Webcase:** Start rapid în UI/UX Design (2024)  
-- 🏆 **FreeCodeCamp:** Responsive Web Design (2024)  
-- 🏆 **GoIt:** Maraton de HTML+CSS (2023)  
-- 🏆 **GoIt:** Maraton QA Testing (2024)  
-- 🏆 **Google Career Certificates:** Bazele marketingului digital (2022)  
-- 🏆 **Oracle:** Database Foundations (2021)  
-- 🏆 **Cisco Networking Academy:** IT Essentials (2019)  
+🔹 **Weather App (Django & OpenWeatherMap API)**  
+☁️ Created a **weather dashboard** showing **real-time temperature, humidity, UV index, and air quality**.  
 
 ---
 
-## **📫 Get in Touch**  
+## 📜 **Certifications & Courses**  
+
+🏆 **Webcase:** Start rapid în UI/UX Design (2024)  
+🏆 **FreeCodeCamp:** Responsive Web Design (2024)  
+🏆 **GoIt:** Maraton de HTML+CSS (2023)  
+🏆 **GoIt:** Maraton QA Testing (2024)  
+🏆 **Google Career Certificates:** Bazele marketingului digital (2022)  
+🏆 **Oracle:** Database Foundations (2021)  
+🏆 **Cisco Networking Academy:** IT Essentials (2019)  
+
+---
+
+## 🌍 **Let’s Connect!**  
 
 📧 **Email:** cristiana.baziru@gmail.com  
 📍 **Location:** Cluj-Napoca, Romania  
-🔗 **[LinkedIn](#)**  www.linkedin.com/in/cristiana-baziru-352aa824a 
-💻 **[GitHub](#)**  https://github.com/cristianasilviaB 
+
+🔗 **[LinkedIn](https://www.linkedin.com/in/cristiana-baziru-352aa824a/)**  
+💻 **[GitHub](https://github.com/cristianasilviaB/)**  
+
+🚀 Always open to new **challenges, collaborations, and opportunities!**  
+
+---
+
 
