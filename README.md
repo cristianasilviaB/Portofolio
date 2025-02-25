@@ -1,7 +1,3 @@
----
-title: Cristiana-Silvia Bazîru
-theme: minima
----
 
 # **Cristiana-Silvia Bazîru**  
 🎓 **Student | Electronics, Telecommunications & IT | TUCN**  
