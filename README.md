@@ -63,6 +63,9 @@ Passionate about **software development, data engineering, and telecommunication
 
 ## 🚀 **Featured Projects**  
 
+🔹 **Sequential Traffic Light Controller for an intersection(VHDL)** 
+🚦 The goal was to manage the traffic flow based on vehicle presence and prioritize Street A (main street) while providing flexibility for Street B (secondary street) when there are vehicles waiting.
+
 🔹 **PBX Call Plan (Asterisk CLI)**  
 📞 Designed & implemented a **dial plan for SIP/IAX2 subscribers** using CLI (without GUI).  
 
