@@ -63,25 +63,25 @@ Passionate about **software development, data engineering, and telecommunication
 
 ## 🚀 **Featured Projects**  
 
-🔹 Weather App (Django + OpenWeatherMap API)
+🔹**Weather App (Django + OpenWeatherMap API)**
 ☁️ Built a web app that pulls real-time weather data (temperature, humidity, UV index, air quality) from OpenWeatherMap. Helped me understand API integration and backend/frontend communication.
 
-🔹 Movie Search Engine (ReactJS)
+🔹 **Movie Search Engine (ReactJS)**
 🎬 Created a movie search app using functional components. Developed a SearchBar for user input, managed state with hooks, fetched data from an external API, and dynamically rendered movie cards in a MovieList using JSX.
 
-🔹 Automated Email System (Power Automate)
+🔹 **Automated Email System (Power Automate)**
 📧 Used Microsoft Power Automate to send personalized email campaigns based on Excel data. Built flow logic to automate notifications — super handy for repetitive communication tasks.
 
-🔹 Asterisk PBX Dial Plan (CLI)
+🔹** Asterisk PBX Dial Plan (CLI)**
 📞 Configured a basic phone system using backend scripting and logic via the Asterisk CLI. Focused on call flow, routing, and subscriber control — all done without a GUI.
 
-🔹 Server/Client Communication System (C – Windows/Linux)
+🔹 **Server/Client Communication System (C – Windows/Linux)**
 🔗 Designed a cross-platform server-client architecture using sockets. This project sharpened my understanding of real-time communication, threading, and network protocols.
 
-🔹 Hybrid Image Generator (Python)
+🔹 **Hybrid Image Generator (Python)**
 🖼 Blended two images by combining their frequency layers (low-pass and high-pass) using FFT in Python. It was a creative dive into digital signal processing and algorithm design.
 
-🔹 Responsive Web Portfolio (HTML, CSS, JavaScript)
+🔹 **Responsive Web Portfolio (HTML, CSS, JavaScript)**
 🎨 Designed and built my own personal portfolio website to showcase projects. Emphasized responsive layout, accessibility, and clean design.
 
 ---
