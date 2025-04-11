@@ -63,25 +63,33 @@ Passionate about **software development, data engineering, and telecommunication
 
 ## 🚀 **Featured Projects**  
 
-🔹 **Sequential Traffic Light Controller for an intersection(VHDL)**  
-🚦 The goal was to manage the traffic flow based on vehicle presence and prioritize Street A (main street) while providing flexibility for Street B (secondary street) when there are vehicles waiting.
+🔹 Weather App (Django + OpenWeatherMap API)
+☁️ Built a web app that pulls real-time weather data (temperature, humidity, UV index, air quality) from OpenWeatherMap. Helped me understand API integration and backend/frontend communication.
 
-🔹 **PBX Call Plan (Asterisk CLI)**  
-📞 Designed & implemented a **dial plan for SIP/IAX2 subscribers** using CLI (without GUI).  
+🔹 Movie Search Engine (ReactJS)
+🎬 Created a movie search app using functional components. Developed a SearchBar for user input, managed state with hooks, fetched data from an external API, and dynamically rendered movie cards in a MovieList using JSX.
 
-🔹 **Server/Client Communication System (C - Linux & Windows)**  
-🔗 Built a **server-client system** in C for cross-platform communication.  
+🔹 Automated Email System (Power Automate)
+📧 Used Microsoft Power Automate to send personalized email campaigns based on Excel data. Built flow logic to automate notifications — super handy for repetitive communication tasks.
 
-🔹 **Responsive Web Portfolio (HTML, CSS, JavaScript)**  
-🎨 Designed & developed a **modern, responsive portfolio website**.  
+🔹 Asterisk PBX Dial Plan (CLI)
+📞 Configured a basic phone system using backend scripting and logic via the Asterisk CLI. Focused on call flow, routing, and subscriber control — all done without a GUI.
 
-🔹 **Weather App (Django & OpenWeatherMap API)**  
-☁️ Created a **weather dashboard** showing **real-time temperature, humidity, UV index, and air quality**.  
+🔹 Server/Client Communication System (C – Windows/Linux)
+🔗 Designed a cross-platform server-client architecture using sockets. This project sharpened my understanding of real-time communication, threading, and network protocols.
+
+🔹 Hybrid Image Generator (Python)
+🖼 Blended two images by combining their frequency layers (low-pass and high-pass) using FFT in Python. It was a creative dive into digital signal processing and algorithm design.
+
+🔹 Responsive Web Portfolio (HTML, CSS, JavaScript)
+🎨 Designed and built my own personal portfolio website to showcase projects. Emphasized responsive layout, accessibility, and clean design.
 
 ---
 
 ## 📜 **Certifications & Courses**  
 
+🏆 FreeCodeCamp: Learn REST APIs by Building a JavaScript Project (2025)
+🏆 Coursera (University of Virginia): Continuous Delivery & DevOps (2025)
 🏆 **Webcase:** Start rapid în UI/UX Design (2024)  
 🏆 **FreeCodeCamp:** Responsive Web Design (2024)  
 🏆 **GoIt:** Maraton de HTML+CSS (2023)  
