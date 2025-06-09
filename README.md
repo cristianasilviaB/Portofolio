@@ -1,68 +1,79 @@
+# 🚀 Cristiana-Silvia Bazîru  
+🎓 Final-Year IT Student | Aspiring Front-End Developer  
+📍 Cluj-Napoca, Romania  
+📧 cristiana.baziru@gmail.com  
 
+---
 
-# 🚀 **Cristiana-Silvia Bazîru**  
-<img src="profile.jpeg" align="right" width="150" height="150" style="border-radius: 50%; margin-left: 15px;" />  
-🎓 **Final-Year IT Student | Java & Backend Enthusiast**  
-📍 Cluj-Napoca, Romania | 📧 cristiana.baziru@gmail.com  
+<img src="profile.jpeg" align="right" width="150" style="border-radius: 50%; margin-left: 15px;" />
 
+### 👋 Why This Internship?
 
+Curious and creative **frontend enthusiast** with a technical background in **JavaScript, HTML, and CSS**, and growing skills in **React**. I’m passionate about building clean, responsive UIs and excited to learn from professionals while contributing to impactful, user-focused projects at Connatix!
 
-### 👋 **Why This Internship?**  
-Passionate **Java learner** with hands-on experience in **OOP, databases, and APIs**, eager to grow in a collaborative Agile environment. I thrive on **problem-solving** and want to contribute to real-world projects!  
+---
 
+## 🔥 Relevant Skills
 
+### 🎨 Front-End & Web Development  
+- `HTML5`, `CSS3`, `JavaScript (ES6+)`  
+- `React` (basics), `Vue.js` (intro), Responsive Design  
+- UI/UX concepts, Figma prototyping  
 
-## 🔥 **Relevant Skills**  
-### 💻 **Backend & Java**  
-☕ `Java (OOP)` | 🐍 `Python` | 🛢️ `SQL (Oracle, MySQL)` | 🌐 `REST APIs`  
-🧩 **Frameworks:** `Django` (Weather App) | `React` (Movie Search Engine)  
-🔧 **Tools:** `Git` | `Jenkins` | `Docker` | `VS Code`  
+### 💻 Additional Technical Skills  
+- `Java (OOP)`, `Python`, `SQL (Oracle, MySQL)`  
+- `REST APIs`, `Git`, `VS Code`, `Docker`, `Jenkins`  
 
-### 🛠 **Why Me?**  
-✅ **Fast learner** – Built projects from scratch (APIs, databases, cross-platform systems).  
-✅ **Team player** – Mentored 10+ students at MindHub; collaborated in workflows at Bosch.  
-✅ **Problem-solver** – Designed algorithms (Hybrid Image Generator, PBX Dial Plan).  
+---
 
+## 💼 Experience
 
-## 💼 **Experience**  
-### 🔹 **Bosch Cluj | Summer Intern (2024)**  
-- Optimized processes using **structured methodologies**.
-- Gained exposure to **software testing & automation**.  
+### 🔹 Bosch Cluj | Summer Intern (2024)  
+- Improved internal processes and workflows  
+- Exposure to automation, version control, and agile practices  
 
-### 🔹 **MindHub Coding School | Mentor (2022–2023)**  
-- Taught **programming logic** and guided students through **full project lifecycles**.  
+### 🔹 MindHub Coding School | Programming Mentor (2022–2023)  
+- Taught basic programming and logic  
+- Helped students create interactive projects  
 
-  
+---
 
-## 🎓 **Education**  
+## 🎓 Education
+
 **Technical University of Cluj-Napoca**  
-🎓 **B.Sc. in Electronics, Telecommunications & IT** (2025)  
-- **Relevant coursework:** Software development, databases, networking.  
-- **Projects:** Backend systems (Django, C sockets), data processing (Python).  
+B.Sc. in Electronics, Telecommunications & IT (Expected 2025)  
+- Courses: Web development, programming, databases  
+- Projects: Front-end UIs (React), back-end systems (Django, C sockets)  
 
+---
 
+## 🚀 Key Projects
 
-## 🚀 **Key Projects**  
-🔹 **Weather App (Django + REST API)**  
-- Integrated OpenWeatherMap API, designed database models, and built backend logic.  
+### 🎬 Movie Search UI (React + OMDB API)  
+ Made a program that finds movement in videos using
+ background subtraction. This project helped me understand image processing and real-time video
+ analysis.
 
-🔹 **Server/Client System (C Sockets)**  
-- Developed a **cross-platform** communication system simulating backend architecture.  
+### 🌤️ Weather App (Django + REST API)  
+ Built a simple web app that shows weather
+ information using real-time data from an API. I learned how backend and frontend parts work together.
 
-🔹 **PBX Dial Plan (Asterisk CLI)**  
-- Scripted call-routing logic, showcasing **problem-solving** and backend thinking.  
- 
+### 📞 Android App Project (Java + XML)
+ Built mobile apps using Android Studio. I worked with layouts, user
+ input, and server connections. This project helped me understand app development.
 
-## 📜 **Certifications**  
-🏆 **Oracle Database Foundations** (SQL skills)  
-🏆 **FreeCodeCamp: REST APIs** (Backend prep)  
-🏆 **Coursera: DevOps & CI/CD** (Agile/DevOps exposure)  
+---
 
----  
+## 📜 Certifications
 
-## 🌍 **Let’s Connect!**  
-📧 **Email:** cristiana.baziru@gmail.com  
-🔗 **[LinkedIn] https://www.linkedin.com/in/cristiana-baziru-352aa824a/**  
-💻 **[GitHub] https://github.com/cristianasilviaB/**  
+- 🏆 FreeCodeCamp – Responsive Web Design  
+- 🏆 Oracle Database Foundations (SQL)  
+- 🏆 Coursera – DevOps & CI/CD  
 
+---
 
+## 🌍 Let’s Connect!
+
+- 📧 **Email:** cristiana.baziru@gmail.com  
+- 💼 **[LinkedIn](https://www.linkedin.com/in/cristiana-baziru-352aa824a/)**  
+- 💻 **[GitHub](https://github.com/cristianasilviaB/)**  
